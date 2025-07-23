@@ -1,0 +1,6 @@
+package kuni;
+public class myclass{
+    public void kunu(){
+        System.out.println("I am a boy");
+    }
+}
